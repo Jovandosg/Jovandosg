@@ -1,50 +1,60 @@
-<h1 align="center">👋 Olá, eu sou Jovando Gonçalves</h1>
+<h2 align="left">About me</h2>
 
-<p align="center">
-  <b>DevOps Engineer | Cloud Solutions Architect | AWS, Kubernetes & Terraform</b><br>
+###
 
-</p>
+<p align="left">- 🦾DevOps Engineer | Cloud Solutions Architect | AWS, Kubernetes & Terraform</p>
 
----
+###
 
-### 🚀 Sobre Mim
+<h2 align="left">Social Media</h2>
 
-Sou um profissional de TI com ampla experiência em infraestrutura e ambientes críticos, hoje focado em práticas modernas de **Cloud Computing** e **DevOps**.
+###
 
-Nos últimos anos venho aplicando **Infraestrutura como Código (IaC)** com Terraform, provisionando ambientes escaláveis na **AWS**, construindo pipelines de **CI/CD**, implementando **observabilidade** com CloudWatch e gerenciando contêineres com **Kubernetes e Docker**.
+<div align="left">
+  <a href="https://www.linkedin.com/in/jovandogoncalves/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-Tenho passagem por grandes empresas como **Petrobras, Hospital Sírio-Libanês e Editora Globo**, onde atuei com missão crítica, integração de sistemas, automação de processos e suporte de alto nível.
+###
 
-Atualmente, busco desafios como **DevOps Engineer**, **Cloud Architect** ou **SRE**, onde possa unir minha bagagem técnica com práticas modernas de agilidade e confiabilidade.
+<h2 align="left">Techs</h2>
 
----
+###
 
-### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
 
-- **Cloud**: AWS (EC2, RDS, Lambda, VPC, IAM, ECS, S3, CloudFormation, CloudWatch)
-- **IaC & Containers**: Terraform, Kubernetes, Docker
-- **CI/CD**: GitHub Actions, Jenkins
-- **Observability**: CloudWatch, CloudTrail, Prometheus (básico)
-- **DevSecOps / SRE / Agile**: Experiência com cultura DevOps, práticas ITIL, foco em confiabilidade
-- **Infraestrutura**: Redes, VPN, Datacenter, PABX Cloud, suporte a times de Dev e Dados
+###
 
----
+<h2 align="left">Stats</h2>
 
-### 📂 Projetos em Destaque
+###
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [aws-terraform-lab](https://github.com/jovandosg/aws-terraform-lab) | Infraestrutura AWS provisionada com Terraform | Terraform, AWS, IaC |
-| [k8s-lab-nginx](https://github.com/jovandosg/k8s-lab-nginx) *(em construção)* | Cluster Kubernetes local com Minikube e app em NGINX | Kubernetes, Docker |
-| [ci-cd-pipeline-example](https://github.com/jovandosg/ci-cd-pipeline-example) *(em construção)* | Pipeline CI/CD com GitHub Actions e deploy simulado | GitHub Actions, CI/CD, Docker |
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jovandosg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jovandosg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 🔗 Onde Me Encontrar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jovandosg/jovandosg/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jovandosg/jovandosg/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jovandosg/jovandosg/output/pacman-contribution-graph.svg">
+</picture>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jovandogoncalves)
-
-
----
-
-<p align="center">🔥 Vamos juntos impulsionar a inovação na nuvem! 🚀</p>
+###
