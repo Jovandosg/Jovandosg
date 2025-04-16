@@ -1,0 +1,29 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Pacman SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: jovandosg
+          outputs: |
+            ./dist/pacman-contribution-graph.svg
+            ./dist/pacman-contribution-graph-dark.svg
+
+      - name: Publica no branch output
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
