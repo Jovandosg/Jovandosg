@@ -50,19 +50,12 @@
 </div>
 
 ###
-
 <h2 align="left">Pac-Man Contributions</h2>
 
 <picture>
-  <!-- SVG escuro para usuários no modo dark -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jovandosg/jovandosg/output/pacman-contribution-graph-dark.svg">
-  
-  <!-- SVG claro para usuários no modo light -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jovandosg/jovandosg/output/pacman-contribution-graph.svg">
-  
-  <!-- Fallback padrão (light) -->
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/jovandosg/jovandosg/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ###
